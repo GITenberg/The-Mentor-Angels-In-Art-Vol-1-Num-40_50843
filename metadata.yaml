@@ -1,10 +1,16 @@
 _repo: The-Mentor-Angels-In-Art-Vol-1-Num-40_50843
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50843-h/images/cover.jpg
 creator:
   author:
     agent_name: Dyke, John C. Van
     gutenberg_agent_id: '46112'
     url: http://www.gutenberg.org/2009/agents/46112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50843#The-Mentor-Angels-In-Art-Vol-1-Num-40
 gutenberg_issued: '2016-01-04'
 gutenberg_type: Text
 identifiers:
